@@ -1,0 +1,111 @@
+# Programme Core
+CSE2001,Object Oriented Programming with C++,4
+CSE2002,Data Structures and Algorithms,4
+CSE2003,Computer Architecture and Organization,4
+CSE2004,Theory Of Computation And Compiler Design,4
+CSE3001,Database Management Systems,4
+CSE3003,Operating System,4
+CSE3004,Design and Analysis of Algorithms,4
+CSE3005,Software Engineering,4
+CSE3006,Computer Networks,4
+CSE3009,Parallel and Distributed Computing,4
+CSE3011,Python Programming,3
+CSE4001,Internet and Web Programming,4
+ECE2002,Digital Logic Design,4
+ECE3004,Microprocessors And Microcontrollers,4
+# Programme Elective
+CCA3011,Internet of Things,3
+CHI2007,Healthcare Information Systems,3
+CSA3004,Data Visualization,3
+CSA3005,Cloud Computing,3
+CSA3017,Knowledge Engineering,3
+CSA4003,Data Mining And Data Warehousing,3
+CSA4011,Information Retrieval and Web Search,3
+CSD4002,Ethical Hacking,4
+CSD4008,Cyber Security Framework,3
+CSD5002,Virtualization Essentials,3
+CSD5008,Forensic Science,3
+CSE3008,Soft Computing,3
+CSE3010,Computer Vision,3
+CSE3012,Mobile Application Development,3
+CSE3013,Agile Software Development,3
+CSE3014,Medical Imaging,3
+CSE3015,AWS Cloud Practitioner,4
+CSE3016,AWS Solution Architect,4
+CSE3017,Salesforce,4
+CSE4003,Bigdata Analytics,3
+CSE4005,Machine Learning,3
+CSE4012,Software Defined Network,3
+CSG2001,Augmented Reality and Virtual Reality,4
+ECE4007,Wireless Sensor Networks,3
+ECE4010,Embedded Systems,4
+ECE6012,PATTERN RECOGNITION AND IMAGE ANALYSIS,3
+MAT2009,Applied Cryptography,4
+MAT5004,Mathematical Foundations for Cybersecurity,3
+# University Core - Natural Science Core
+CHY1001,ENGINEERING CHEMISTRY,4
+CHY1005,Introduction to Computational chemistry,4
+MAT1003,Calculus,4
+MAT2002,Discrete Mathematics and Graph Theory,4
+MAT2005,Transform Techniques and Difference Equations,3
+MAT3002,Applied Linear Algebra,3
+MAT3003,Probability, Statistics and Reliability,4
+PHY1001,ENGINEERING PHYSICS,4
+PHY1003,Introduction to Computational Physics,4
+PHY1004,Fundamentals of Space Physics,4
+# University Core - Basic Engineering Sciences Core
+CSA2001,Fundamentals in AI & ML,4
+EEE1001,Electric Circuits and Systems,4
+MEE2014,Engineering Design and Modelling,4
+# University Core - Skill Development Courses
+CSE1021,Introduction to Problem Solving and Programming,4
+CSE2006,Programming in Java,3
+PLA1004,Competitive Coding Practices,3
+PLA1006,Lateral Thinking,2
+SST1003,Professional Communication Skills for Engineers,1
+SST2003,Dynamics of workplace communication Skills,1
+# University Core - Humanities Social Science and Management Core
+CHY1006,Environmental Sustainability,2
+ENG1004,EFFECTIVE TECHNICAL COMMUNICATION,2
+ENG2005,Advanced Technical Communication,2
+# University Core - Project and Internships
+DSN2092,SUMMER INDUSTRIAL INTERNSHIP,1
+DSN2093,SEMESTER INTERNSHIP,4
+DSN2098,Project Exhibition – I,1
+DSN2099,Project Exhibition – II,1
+DSN3099,Engineering Project in Community Service,2
+DSN4091,Capstone Project - Phase 1,3
+DSN4092,Capstone Project - Phase 2,5
+# University Elective - Natural Science Electives
+CHY2007,Modelling and Simulation of Biological Systems,3
+MAT2001,Differential And Difference Equations,3
+MAT2003,Applied Numerical Method,3
+MAT2004,Operations Research,3
+MAT3004,Random Process,3
+MAT3008,Computational Game Theory,3
+PHY2011,Biophysics,3
+# University Elective - Multidisciplinary Electives
+BIO1501,Bio Inspired Design,3
+CDS3005,Foundations of Data Science,3
+CSD3010,Cyber Physical Systems,3
+CSG2003,Human Computer Interaction,3
+EAC4012,Body Area Networks,3
+ECE4006,Sensors And Iot,3
+ENG3001,Introduction to Computational Linguistics,3
+MEA3015,UNMANNED AERIAL VEHICLES,3
+# University Elective - Humanities, Social Sciences and Management Electives
+BMT1013,Human Resource Management,3
+BMT2017,International Business,3
+HUM1002,Emotional Intelligence,3
+HUM2001,Behavioural Science,3
+MGT1002,PRINCIPLES OF MANAGEMENT AND ORGANIZATIONAL BEHAVIOUR,3
+MGT2003,Technology Entrepreneurship,3
+# Non - Graded Mandatory Courses
+CSE0001,Digital Literacy,1
+CSE0002,OPEN SOURCE SOFTWARE (LINUX ADMINISTRATION),2
+EXC0001,EXTRA CURRICULAR ACTIVITIES,1
+HUM0002,Swachh Bharat,1
+HUM0003,INDIAN CONSTITUTION,2
+HUM0004,INDIAN HERITAGE,2
+UHV0001,Universal Human Values - I,1
+UHV0002,Universal Human Values - II,3
